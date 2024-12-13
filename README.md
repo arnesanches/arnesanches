@@ -1,4 +1,4 @@
-# ENGLISH // PORTUGUÊS
+# English // Português
 
 # Projects Portfolio
 
@@ -23,7 +23,7 @@ A Python tool that converts PDF tables to Excel format. This project is useful f
 Feel free to explore the individual repositories for more details and source code. I'm always working on improving my skills and contributing to meaningful projects. 
 
 Contact me:  
-- [LinkedIn](https://www.linkedin.com/in/arnesanchesjunior/)  
+- [LinkedIn](www.linkedin.com/in/arnesanchesjunior)  
 - [Email](mailto:arneantonio@hotmail.com)
 
 
@@ -52,6 +52,6 @@ Uma ferramenta em Python que converte tabelas de PDF para o formato Excel. Este 
 Fique à vontade para explorar os repositórios individuais para mais detalhes e o código fonte. Estou sempre trabalhando para melhorar minhas habilidades e contribuir para projetos significativos. 
 
 Entre em contato:  
-- [LinkedIn](https://www.linkedin.com/in/arnesanchesjunior/)  
+- [LinkedIn](www.linkedin.com/in/arnesanchesjunior)  
 - [E-mail](mailto:arneantonio@hotmail.com)
 
