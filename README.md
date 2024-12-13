@@ -1,4 +1,4 @@
-# English // Português
+# English 
 
 # Projects Portfolio
 
@@ -27,7 +27,7 @@ Contact me:
 - [Email](mailto:arneantonio@hotmail.com)
 
 
-
+Português
 
 # Portfólio de Projetos
 
