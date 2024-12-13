@@ -26,6 +26,7 @@ Contact me:
 - [LinkedIn](https://www.linkedin.com/in/arnesanchesjunior/)  
 - [Email](mailto:arneantonio@hotmail.com)
 
+---
 
 ## Português
 
