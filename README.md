@@ -18,7 +18,7 @@ A web scraping tool built with BeautifulSoup. It extracts data from websites in 
 ### 4. **PDF to Excel Converter (LlamaParse)**  
 A Python tool that converts PDF tables to Excel format. This project is useful for automating the extraction and manipulation of tabular data from PDF files, making it easier to work with in Excel.
 
-----------------------------------------------------------------------
+__________________________________________________
 
 Feel free to explore the individual repositories for more details and source code. I'm always working on improving my skills and contributing to meaningful projects. 
 
@@ -49,7 +49,7 @@ Uma ferramenta de web scraping construída com o BeautifulSoup. Ela extrai dados
 ### 4. **Conversor de PDF para Excel (LlamaParse)**  
 Uma ferramenta em Python que converte tabelas de PDF para o formato Excel. Este projeto é útil para automatizar a extração e manipulação de dados tabulares de arquivos PDF, facilitando o trabalho no Excel.
 
----
+__________________________________________________
 
 Fique à vontade para explorar os repositórios individuais para mais detalhes e o código fonte. Estou sempre trabalhando para melhorar minhas habilidades e contribuir para projetos significativos. 
 
