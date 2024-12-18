@@ -1,12 +1,12 @@
 ## English 
 
-# [Projects Portfolio](https://github.com/arnesanches/pyauto-record)
+# Projects Portfolio
 
 Welcome to my portfolio! Below is a list of the main projects I have worked on. Each project focuses on automation, data analysis, or web scraping, with a strong emphasis on practical applications and clean code.
 
 ## Projects
 
-### 1. **PyAuto Record**  
+### 1. [**PyAuto Record**](https://github.com/arnesanches/pyauto-record)  
 A Python script utilizing PyAutoGUI to automate the product registration process on a website. This tool significantly reduces manual work and enhances efficiency in managing online inventories.
 
 ### 2. **Scikit-Learn AI**
