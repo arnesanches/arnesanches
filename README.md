@@ -1,4 +1,4 @@
-## English 
+### English 
 
 # Projects Portfolio
 
@@ -40,7 +40,7 @@ Contact me:
 ---
 
 
-## Português
+### Português
 
 # Portfólio de Projetos
 
