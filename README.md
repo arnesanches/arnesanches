@@ -10,7 +10,7 @@ Welcome to my portfolio! Below is a list of the main projects I have worked on. 
 A Python script utilizing PyAutoGUI to automate the product registration process on a website. This tool significantly reduces manual work and enhances efficiency in managing online inventories.
 
 ### 2. [**Scikit-learn AI**](https://github.com/arnesanches/scikit-learn-ai)
-A machine learning project that uses Scikit-learn to predict credit scores based on customer data. The project also applies predictions to new customer data using trained models.
+This is an artificial intelligence project that uses Scikit-learn to implement machine learning algorithms and predict credit scores based on customer data. Additionally, the project applies the trained models to make predictions on new data, enabling more accurate analyses and decision-making.
 
 ### 3. [**Power BI Dashboard**](https://github.com/arnesanches/powerbi_dashboard)
 This project consists of an attractive and highly interactive financial dashboard created in Power BI, featuring detailed calculations based on financial data extracted from an Excel file. The accuracy of these calculations is validated using Python code.
@@ -50,7 +50,7 @@ Bem-vindo ao meu portfólio! Abaixo está uma lista dos principais projetos em q
 Um script em Python que usa o PyAutoGUI para automatizar o processo de cadastro de produtos em um site. Esta ferramenta reduz significativamente o trabalho manual e aumenta a eficiência na gestão de inventários online.
 
 ### 2. [**Scikit-learn AI**](https://github.com/arnesanches/scikit-learn-ai)
-Um projeto de aprendizado de máquina que utiliza Scikit-learn para prever scores de crédito com base em dados de clientes. O projeto também aplica previsões a novos dados de clientes usando os modelos treinados.
+Este é um projeto de inteligência artificial que utiliza o Scikit-learn para implementar algoritmos de aprendizado de máquina e prever scores de crédito com base em dados de clientes. Além disso, o projeto aplica os modelos treinados para realizar previsões em novos dados, possibilitando análises e tomadas de decisão mais assertivas.
 
 ### 3. [**Power BI Dashboard**](https://github.com/arnesanches/powerbi_dashboard)
 Este projeto consiste em um dashboard financeiro atraente e altamente interativo criado no Power BI, apresentando cálculos detalhados com base em dados financeiros extraídos de um arquivo Excel. A precisão desses cálculos é validada utilizando código Python.
