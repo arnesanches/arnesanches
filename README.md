@@ -2,7 +2,8 @@
 
 # Projects Portfolio
 
-Welcome to my portfolio! Below is a list of the main projects I have worked on. Each project focuses on automation, data analysis, or web scraping, with a strong emphasis on practical applications and clean code.
+Welcome to my portfolio!
+Here you will find projects covering automation, artificial intelligence, data analysis, and web scraping. All data used is fictitious, ensuring complete safety and privacy. Each work reflects my dedication to creating practical solutions using clean and efficient code to tackle real-world challenges in innovative ways. Among the highlights is a sophisticated Power BI dashboard that transforms data into interactive and dynamic insights.
 
 ## Projects
 
@@ -42,7 +43,8 @@ Contact me:
 
 # Portfólio de Projetos
 
-Bem-vindo ao meu portfólio! Abaixo está uma lista dos principais projetos em que trabalhei. Cada projeto foca em automação, análise de dados ou web scraping, com forte ênfase em aplicações práticas e código limpo.
+Bem-vindo ao meu portfólio!
+Aqui você encontrará projetos que abrangem automação, inteligência artificial, análise de dados e web scraping. Todos os dados utilizados são fictícios, garantindo total segurança e privacidade. Cada trabalho reflete minha dedicação a criar soluções práticas, utilizando código limpo e eficiente para enfrentar desafios reais de forma inovadora. Entre os destaques, um sofisticado dashboard em Power BI que transforma dados em insights interativos e dinâmicos.                                   
 
 ## Projetos
 
