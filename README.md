@@ -10,10 +10,10 @@ Welcome to my portfolio! Below is a list of the main projects I have worked on. 
 A Python script utilizing PyAutoGUI to automate the product registration process on a website. This tool significantly reduces manual work and enhances efficiency in managing online inventories.
 
 ### 2. [**Scikit-learn AI**](https://github.com/arnesanches/scikit-learn-ai)
-A machine learning project that uses Scikit-Learn to predict credit scores based on customer data. The project also applies predictions to new customer data using trained models.
+A machine learning project that uses Scikit-learn to predict credit scores based on customer data. The project also applies predictions to new customer data using trained models.
 
 ### 3. [**Power BI Dashboard**](https://github.com/arnesanches/powerbi_dashboard)
-This project consists of an attractive and interactive financial dashboard created in Power BI, with detailed calculations based on financial data extracted from an Excel file. The consistency of the calculations is confirmed through a Python code.
+This project consists of an attractive and highly interactive financial dashboard created in Power BI, featuring detailed calculations based on financial data extracted from an Excel file. The accuracy of these calculations is validated using Python code.
 
 ### 4. [**Selenium Analysis Mailer**](https://github.com/arnesanches/selenium-analysis-mailer)
 Using Selenium, Pandas, and PyAutoGUI, this script analyzes data from an Excel file, generates sales insights, and automates the process of sending this information via email. Additionally, the script logs out and closes the browser at the end of the process.
@@ -50,10 +50,10 @@ Bem-vindo ao meu portfólio! Abaixo está uma lista dos principais projetos em q
 Um script em Python que usa o PyAutoGUI para automatizar o processo de cadastro de produtos em um site. Esta ferramenta reduz significativamente o trabalho manual e aumenta a eficiência na gestão de inventários online.
 
 ### 2. [**Scikit-learn AI**](https://github.com/arnesanches/scikit-learn-ai)
-Um projeto de aprendizado de máquina que utiliza Scikit-Learn para prever scores de crédito com base em dados de clientes. O projeto também aplica previsões a novos dados de clientes usando os modelos treinados.
+Um projeto de aprendizado de máquina que utiliza Scikit-learn para prever scores de crédito com base em dados de clientes. O projeto também aplica previsões a novos dados de clientes usando os modelos treinados.
 
 ### 3. [**Power BI Dashboard**](https://github.com/arnesanches/powerbi_dashboard)
-Este projeto consiste em um dashboard financeiro atraente e interativo criado no Power BI, com cálculos detalhados sobre dados financeiros extraídos de um arquivo Excel. A consistência dos cálculos é confirmada por meio de um código Python. 
+Este projeto consiste em um dashboard financeiro atraente e altamente interativo criado no Power BI, apresentando cálculos detalhados com base em dados financeiros extraídos de um arquivo Excel. A precisão desses cálculos é validada utilizando código Python.
 
 ### 4. [**Selenium Analysis Mailer**](https://github.com/arnesanches/selenium-analysis-mailer)
 Com o uso de Selenium, Pandas e PyAutoGUI, este script analisa dados de um arquivo Excel, gera insights sobre vendas e automatiza o envio dessas informações por e-mail. Além disso, o código realiza logout e encerra o navegador ao final do processo.
