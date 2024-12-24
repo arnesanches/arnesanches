@@ -9,19 +9,22 @@ Welcome to my portfolio! Below is a list of the main projects I have worked on. 
 ### 1. [**PyAuto Record**](https://github.com/arnesanches/pyauto-record)  
 A Python script utilizing PyAutoGUI to automate the product registration process on a website. This tool significantly reduces manual work and enhances efficiency in managing online inventories.
 
-### 2. [**Selenium Analysis Mailer**](https://github.com/arnesanches/selenium-analysis-mailer)
-Using Selenium, Pandas, and PyAutoGUI, this script analyzes data from an Excel file, generates sales insights, and automates the process of sending this information via email. Additionally, the script logs out and closes the browser at the end of the process.
-
-### 3. [**Scikit-Learn AI**](https://github.com/arnesanches/scikit-learn-ai)
+### 2. [**Scikit-learn AI**](https://github.com/arnesanches/scikit-learn-ai)
 A machine learning project that uses Scikit-Learn to predict credit scores based on customer data. The project also applies predictions to new customer data using trained models.
 
-### 4. [**Plotly Insights**](https://github.com/arnesanches/plotly-insights)   
+### 3. [**Power BI Dashboard**](https://github.com/arnesanches/powerbi_dashboard)
+This project consists of an attractive and interactive financial dashboard created in Power BI, with detailed calculations based on financial data extracted from an Excel file. The consistency of the calculations is confirmed through a Python code.
+
+### 4. [**Selenium Analysis Mailer**](https://github.com/arnesanches/selenium-analysis-mailer)
+Using Selenium, Pandas, and PyAutoGUI, this script analyzes data from an Excel file, generates sales insights, and automates the process of sending this information via email. Additionally, the script logs out and closes the browser at the end of the process.
+
+### 5. [**Plotly Insights**](https://github.com/arnesanches/plotly-insights)   
 This project leverages Plotly for data visualization. It demonstrates how to create interactive charts from datasets, enabling better insights and decision-making.
 
-### 5. [**BeautifulSoup Web Scraper**](https://github.com/arnesanches/beautifulsoup-web-scraper)  
+### 6. [**BeautifulSoup Web Scraper**](https://github.com/arnesanches/beautifulsoup-web-scraper)  
 A web scraping tool built with BeautifulSoup. It extracts data from websites in a structured manner, allowing users to collect and analyze information from various online sources.
 
-### 6. [**Llama PDF to Excel**](https://github.com/arnesanches/llama-pdf-to-excel)    
+### 7. [**Llama PDF to Excel**](https://github.com/arnesanches/llama-pdf-to-excel)    
 A Python script created with Llama Parse that converts PDF tables into Excel format. This project is useful for automating the extraction and manipulation of tabular data from PDF files, simplifying work in Excel.
 
 *****************************
@@ -46,19 +49,22 @@ Bem-vindo ao meu portfólio! Abaixo está uma lista dos principais projetos em q
 ### 1. [**PyAuto Record**](https://github.com/arnesanches/pyauto-record)  
 Um script em Python que usa o PyAutoGUI para automatizar o processo de cadastro de produtos em um site. Esta ferramenta reduz significativamente o trabalho manual e aumenta a eficiência na gestão de inventários online.
 
-### 2. [**Selenium Analysis Mailer**](https://github.com/arnesanches/selenium-analysis-mailer)
-Com o uso de Selenium, Pandas e PyAutoGUI, este script analisa dados de um arquivo Excel, gera insights sobre vendas e automatiza o envio dessas informações por e-mail. Além disso, o código realiza logout e encerra o navegador ao final do processo.
-
-### 3. [**Scikit-Learn AI**](https://github.com/arnesanches/scikit-learn-ai)
+### 2. [**Scikit-learn AI**](https://github.com/arnesanches/scikit-learn-ai)
 Um projeto de aprendizado de máquina que utiliza Scikit-Learn para prever scores de crédito com base em dados de clientes. O projeto também aplica previsões a novos dados de clientes usando os modelos treinados.
 
-### 4. [**Plotly Insights**](https://github.com/arnesanches/plotly-insights)  
+### 3. [**Power BI Dashboard**](https://github.com/arnesanches/powerbi_dashboard)
+Este projeto consiste em um dashboard financeiro atraente e interativo criado no Power BI, com cálculos detalhados sobre dados financeiros extraídos de um arquivo Excel. A consistência dos cálculos é confirmada por meio de um código Python. 
+
+### 4. [**Selenium Analysis Mailer**](https://github.com/arnesanches/selenium-analysis-mailer)
+Com o uso de Selenium, Pandas e PyAutoGUI, este script analisa dados de um arquivo Excel, gera insights sobre vendas e automatiza o envio dessas informações por e-mail. Além disso, o código realiza logout e encerra o navegador ao final do processo.
+
+### 5. [**Plotly Insights**](https://github.com/arnesanches/plotly-insights)  
 Este projeto usa o Plotly para visualização de dados. Ele demonstra como criar gráficos interativos a partir de conjuntos de dados, proporcionando melhores insights e tomadas de decisão.
 
-### 5. [**BeautifulSoup Web Scraper**](https://github.com/arnesanches/beautifulsoup-web-scraper)  
+### 6. [**BeautifulSoup Web Scraper**](https://github.com/arnesanches/beautifulsoup-web-scraper)  
 Uma ferramenta de web scraping construída com o BeautifulSoup. Ela extrai dados de websites de forma estruturada, permitindo que os usuários coletem e analisem informações de várias fontes online.
 
-### 6. [**Llama PDF to Excel**](https://github.com/arnesanches/llama-pdf-to-excel)  
+### 7. [**Llama PDF to Excel**](https://github.com/arnesanches/llama-pdf-to-excel)  
 Este script em Python criado com o Llama Parse que converte tabelas de PDF para o formato Excel. Este projeto é útil para automatizar a extração e manipulação de dados tabulares de arquivos PDF, facilitando o trabalho no Excel.
 
 *****************************
