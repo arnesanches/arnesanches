@@ -29,16 +29,31 @@ A web scraping tool built with BeautifulSoup. It extracts data from websites in 
 ### 7. [**Llama PDF to Excel**](https://github.com/arnesanches/llama-pdf-to-excel)    
 A Python script created with Llama Parse that converts PDF tables into Excel format. This project is useful for automating the extraction and manipulation of tabular data from PDF files, simplifying work in Excel.
 
+## Project Notice  
+
+The projects in this repository were developed as part of my learning journey in the Hashtag Treinamentos course, which allows the use and adaptation of its materials in personal portfolios.  
+
+### My contributions include:  
+- Detailed analysis of the original code  
+- Implementation of improvements and optimizations  
+- Customization of solutions to meet specific objectives  
+
+### This repository showcases my ability to:  
+- Understand and enhance existing code  
+- Create practical and adaptable solutions  
+- Effectively solve real-world challenges  
+- Pursue continuous learning and professional growth  
+
 *****************************
 
-Feel free to explore the individual repositories for more details and source code. I'm always working on improving my skills and contributing to meaningful projects. 
+Feel free to explore the projects and reach out if you have any questions or suggestions.  
+I’m always working to improve my skills and contribute to meaningful projects. 
 
 Contact me:  
 - [LinkedIn](https://www.linkedin.com/in/arnesanchesjunior/)  
 - [Email](mailto:arne.junior@faculdadegran.edu.br)
 
 ---
-
 
 ### Português
 
@@ -71,9 +86,26 @@ Uma ferramenta de web scraping construída com o BeautifulSoup. Ela extrai dados
 ### 7. [**Llama PDF to Excel**](https://github.com/arnesanches/llama-pdf-to-excel)  
 Este script em Python criado com o Llama Parse que converte tabelas de PDF para o formato Excel. Este projeto é útil para automatizar a extração e manipulação de dados tabulares de arquivos PDF, facilitando o trabalho no Excel.
 
+## Aviso sobre os Projetos  
+
+Os projetos deste repositório foram desenvolvidos como parte do meu aprendizado no curso da Hashtag Treinamentos, que permite o uso e a adaptação de seus materiais em portfólios pessoais.  
+
+### Minhas contribuições incluem:  
+- Análise detalhada do código original  
+- Implementação de melhorias e otimizações  
+- Personalização das soluções para atender a objetivos específicos  
+
+### Este repositório demonstra minha capacidade de:  
+- Compreender e aprimorar códigos existentes  
+- Criar soluções práticas e adaptáveis  
+- Resolver desafios reais com eficácia  
+- Buscar constante aprendizado e crescimento profissional  
+
+
 *****************************
 
-Fique à vontade para explorar os repositórios individuais para mais detalhes e o código fonte. Estou sempre trabalhando para melhorar minhas habilidades e contribuir para projetos significativos. 
+Sinta-se à vontade para explorar os projetos e entrar em contato caso tenha dúvidas ou sugestões. 
+Estou sempre trabalhando para melhorar minhas habilidades e contribuir para projetos significativos. 
 
 Entre em contato:  
 - [LinkedIn](https://www.linkedin.com/in/arnesanchesjunior/)  
