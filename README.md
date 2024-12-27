@@ -29,9 +29,9 @@ A web scraping tool built with BeautifulSoup. It extracts data from websites in 
 ### 7. [**Llama PDF to Excel**](https://github.com/arnesanches/llama-pdf-to-excel)    
 A Python script created with Llama Parse that converts PDF tables into Excel format. This project is useful for automating the extraction and manipulation of tabular data from PDF files, simplifying work in Excel.
 
-## Project Notice  
+## About the Projects  
 
-The projects in this repository were developed as part of my learning journey in the Hashtag Treinamentos course, which allows the use and adaptation of its materials in personal portfolios.  
+The projects in this repository were developed as part of my learning journey in the Hashtag Treinamentos courses, which allows the use and adaptation of its materials in personal portfolios.  
 
 ### My contributions include:  
 - Detailed analysis of the original code  
@@ -85,9 +85,9 @@ Uma ferramenta de web scraping construída com o BeautifulSoup. Ela extrai dados
 ### 7. [**Llama PDF to Excel**](https://github.com/arnesanches/llama-pdf-to-excel)  
 Este script em Python criado com o Llama Parse que converte tabelas de PDF para o formato Excel. Este projeto é útil para automatizar a extração e manipulação de dados tabulares de arquivos PDF, facilitando o trabalho no Excel.
 
-## Aviso sobre os Projetos  
+## Sobre os Projetos  
 
-Os projetos deste repositório foram desenvolvidos como parte do meu aprendizado no curso da Hashtag Treinamentos, que permite o uso e a adaptação de seus materiais em portfólios pessoais.  
+Os projetos deste repositório foram desenvolvidos como parte do meu aprendizado nos cursos da Hashtag Treinamentos, que permite o uso e a adaptação de seus materiais em portfólios pessoais.  
 
 ### Minhas contribuições incluem:  
 - Análise detalhada do código original  
