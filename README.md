@@ -29,7 +29,7 @@ A web scraping tool built with BeautifulSoup. It extracts data from websites in 
 ### 7. [**Llama PDF to Excel**](https://github.com/arnesanches/llama-pdf-to-excel)    
 A Python script created with Llama Parse that converts PDF tables into Excel format. This project is useful for automating the extraction and manipulation of tabular data from PDF files, simplifying work in Excel.
 
-## Project Notice  
+### Project Notice  
 
 The projects in this repository were developed as part of my learning journey in the Hashtag Treinamentos course, which allows the use and adaptation of its materials in personal portfolios.  
 
@@ -46,8 +46,7 @@ The projects in this repository were developed as part of my learning journey in
 
 *****************************
 
-Feel free to explore the projects and reach out if you have any questions or suggestions.  
-I’m always working to improve my skills and contribute to meaningful projects. 
+Feel free to explore the projects and reach out if you have any questions or suggestions. I’m always working to improve my skills and contribute to meaningful projects. 
 
 Contact me:  
 - [LinkedIn](https://www.linkedin.com/in/arnesanchesjunior/)  
@@ -86,7 +85,7 @@ Uma ferramenta de web scraping construída com o BeautifulSoup. Ela extrai dados
 ### 7. [**Llama PDF to Excel**](https://github.com/arnesanches/llama-pdf-to-excel)  
 Este script em Python criado com o Llama Parse que converte tabelas de PDF para o formato Excel. Este projeto é útil para automatizar a extração e manipulação de dados tabulares de arquivos PDF, facilitando o trabalho no Excel.
 
-## Aviso sobre os Projetos  
+### Aviso sobre os Projetos  
 
 Os projetos deste repositório foram desenvolvidos como parte do meu aprendizado no curso da Hashtag Treinamentos, que permite o uso e a adaptação de seus materiais em portfólios pessoais.  
 
@@ -104,8 +103,7 @@ Os projetos deste repositório foram desenvolvidos como parte do meu aprendizado
 
 *****************************
 
-Sinta-se à vontade para explorar os projetos e entrar em contato caso tenha dúvidas ou sugestões. 
-Estou sempre trabalhando para melhorar minhas habilidades e contribuir para projetos significativos. 
+Sinta-se à vontade para explorar os projetos e entrar em contato caso tenha dúvidas ou sugestões. Estou sempre trabalhando para melhorar minhas habilidades e contribuir para projetos significativos. 
 
 Entre em contato:  
 - [LinkedIn](https://www.linkedin.com/in/arnesanchesjunior/)  
