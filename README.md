@@ -4,7 +4,7 @@
 
 ### Welcome to my portfolio!
 
-Here you will find projects covering automation, artificial intelligence, data analysis, and web scraping. All data used is fictitious, ensuring complete safety and privacy. Each work reflects my dedication to creating practical solutions using clean and efficient code to tackle real-world challenges in innovative ways. Among the highlights is a sophisticated Power BI dashboard that transforms data into interactive and dynamic insights.
+This space showcases practical projects in automation, artificial intelligence, data analysis, and web scraping, including an interactive and dynamic Power BI dashboard that transforms raw data into clear and actionable insights.
 
 ## Projects
 
@@ -31,18 +31,24 @@ A Python script created with Llama Parse that converts PDF tables into Excel for
 
 ## About the Projects  
 
-The projects in this repository were developed as part of my learning journey in the Hashtag Treinamentos courses, which allows the use and adaptation of its materials in personal portfolios.  
+This repository showcases a collection of projects developed during my learning journey with Hashtag Treinamentos, highlighting my skills in analyzing, improving, and adapting code for different scenarios. Hashtag Treinamentos authorizes the use and adaptation of its materials for personal portfolios.  
 
 ### My contributions include:  
-- Detailed analysis of the original code  
-- Implementation of improvements and optimizations  
-- Customization of solutions to meet specific objectives  
+- **Detailed analysis of the original code**, identifying opportunities for improvement in performance, readability, and maintainability.  
+- **Implementation of optimizations**, such as:  
+  - Refactoring functions to reduce time complexity.  
+  - Optimizing database queries to enhance performance.  
+  - Adapting code to ensure functionality across various computers, regardless of screen size or resolution.  
+- **Customization of solutions**, by implementing new features and integrating with other tools, tailoring projects to specific goals and diverse scenarios.  
+- **Strategic naming of projects**, emphasizing the tools used and the main objective of each one.  
 
-### This repository showcases my ability to:  
-- Understand and enhance existing code  
-- Create practical and adaptable solutions  
-- Effectively solve real-world challenges  
-- Pursue continuous learning and professional growth  
+### This repository demonstrates my ability to:  
+- **Understand and enhance existing code**, implementing effective improvements.  
+- **Create practical and adaptable solutions**, meeting specific needs and adjusting to different contexts.  
+- **Solve challenges effectively**, applying logic, creativity, and technical knowledge.  
+- **Continuously learn**, incorporating new technologies and practices into practical projects, with a focus on constant improvement.  
+
+The data used is fictitious, ensuring complete security and privacy.  
 
 *****************************
 
@@ -58,9 +64,9 @@ Contact me:
 
 # Portfólio de Projetos
 
-### Bem-vindo ao meu portfólio!
+### Bem-vindo(a) ao meu portfólio!
 
-Aqui você encontrará projetos que abrangem automação, inteligência artificial, análise de dados e web scraping. Todos os dados utilizados são fictícios, garantindo total segurança e privacidade. Cada trabalho reflete minha dedicação a criar soluções práticas, utilizando código limpo e eficiente para enfrentar desafios reais de forma inovadora. Entre os destaques, um sofisticado dashboard em Power BI que transforma dados em insights interativos e dinâmicos.                                   
+Este espaço reúne projetos práticos em automação, inteligência artificial, análise de dados e web scraping, incluindo um dashboard interativo e dinâmico em Power BI que transforma dados brutos em informações claras e úteis.
 
 ## Projetos
 
@@ -87,19 +93,24 @@ Este script em Python criado com o Llama Parse que converte tabelas de PDF para 
 
 ## Sobre os Projetos  
 
-Os projetos deste repositório foram desenvolvidos como parte do meu aprendizado nos cursos da Hashtag Treinamentos, que permite o uso e a adaptação de seus materiais em portfólios pessoais.  
+Este repositório apresenta uma coleção de projetos desenvolvidos durante meu aprendizado com a Hashtag Treinamentos, destacando minhas habilidades em análise, aprimoramento e adaptação de códigos para diferentes cenários. A Hashtag Treinamentos autoriza o uso e a adaptação de seus materiais para compor portfólios pessoais.  
 
 ### Minhas contribuições incluem:  
-- Análise detalhada do código original  
-- Implementação de melhorias e otimizações  
-- Personalização das soluções para atender a objetivos específicos  
+- **Análise detalhada do código original**, identificando oportunidades de melhoria em performance, legibilidade e manutenibilidade.  
+- **Implementação de otimizações**, como:  
+  - Refatoração de funções para reduzir a complexidade temporal.  
+  - Otimização de consultas ao banco de dados para ganho de desempenho.  
+  - Adaptação de códigos para assegurar a funcionalidade em diferentes computadores, independentemente do tamanho ou resolução do monitor.  
+- **Personalização de soluções**, com a implementação de novas funcionalidades e integração com outras ferramentas, adaptando os projetos a objetivos específicos e cenários diversos.  
+- **Definição estratégica dos nomes dos projetos**, ressaltando as ferramentas utilizadas e os objetivos principais de cada um.  
 
-### Este repositório demonstra minha capacidade de:  
-- Compreender e aprimorar códigos existentes  
-- Criar soluções práticas e adaptáveis  
-- Resolver desafios reais com eficácia  
-- Buscar constante aprendizado e crescimento profissional  
+### Este repositório evidencia minhas habilidades em:  
+- **Compreender e aprimorar códigos existentes**, implementando melhorias eficazes.  
+- **Criar soluções práticas e adaptáveis**, que atendam a necessidades específicas e se ajustem a diferentes contextos.  
+- **Resolver desafios com eficácia**, aplicando lógica, criatividade e conhecimento técnico.  
+- **Aprender continuamente**, incorporando novas tecnologias e práticas em projetos práticos, com foco no aperfeiçoamento constante.  
 
+Os dados utilizados são fictícios, garantindo total segurança e privacidade.  
 
 *****************************
 
