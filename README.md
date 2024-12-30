@@ -23,14 +23,16 @@ This project, developed in Power BI, features a highly interactive and visually 
 ### 5. [**Plotly Insights**](https://github.com/arnesanches/plotly-insights)   
 This project employs Plotly to transform datasets into interactive and intuitive charts, facilitating the interpretation and extraction of valuable insights for decision-making.
 
-### 6. [**BeautifulSoup Web Scraper**](https://github.com/arnesanches/beautifulsoup-web-scraper)  
+### 6. [**Flet IntraChat**](https://github.com/arnesanches/flet_intrachat)
+Developed with the powerful Flet framework, this project optimizes internal communication within companies by offering a secure, effective, and fully integrated solution. By eliminating the need for internet, emails, external applications, or registrations, it simplifies team collaboration and ensures maximum protection against corporate information leaks.
+
+### 7. [**BeautifulSoup Web Scraper**](https://github.com/arnesanches/beautifulsoup-web-scraper)  
 Built with BeautifulSoup, this web scraping tool extracts data from websites in a structured and high-performance manner, enabling users to collect and analyze large volumes of online information.
 
-### 7. [**Llama PDF to Excel**](https://github.com/arnesanches/llama-pdf-to-excel)    
+### 8. [**Llama PDF to Excel**](https://github.com/arnesanches/llama-pdf-to-excel)    
 A Python script created with Llama Parse that converts PDF tables into Excel format. This project is useful for automating the extraction and manipulation of tabular data from PDF files, simplifying work in Excel.
 
-### 8. [**Flet IntraChat**](https://github.com/arnesanches/flet_intrachat)
-Developed with the powerful Flet framework, this project offers an efficient solution for internal communication in companies, operating without internet and facilitating team integration.
+
 
 ## About the Projects  
 
@@ -88,14 +90,15 @@ Este projeto, desenvolvido no Power BI, apresenta um dashboard financeiro altame
 ### 5. [**Plotly Insights**](https://github.com/arnesanches/plotly-insights)  
 Este projeto emprega o Plotly para transformar conjuntos de dados em gráficos interativos e intuitivos, facilitando a interpretação e a extração de insights valiosos para a tomada de decisões.
 
-### 6. [**BeautifulSoup Web Scraper**](https://github.com/arnesanches/beautifulsoup-web-scraper)  
+### 6. [**Flet IntraChat**](https://github.com/arnesanches/flet_intrachat)
+Desenvolvido com o poderoso framework Flet, este projeto otimiza a comunicação interna das empresas, oferecendo uma solução segura, eficaz e totalmente integrada. Ao eliminar a necessidade de internet, e-mails, aplicativos externos ou cadastros, ele simplifica a colaboração entre equipes e garante máxima proteção contra vazamentos de informações corporativas.
+
+### 7. [**BeautifulSoup Web Scraper**](https://github.com/arnesanches/beautifulsoup-web-scraper)  
 Construída com o BeautifulSoup, esta ferramenta de web scraping realiza a extração de dados de websites de forma estruturada e com alta performance, permitindo que os usuários coletem e analisem grandes volumes de informações online.
 
-### 7. [**Llama PDF to Excel**](https://github.com/arnesanches/llama-pdf-to-excel)  
+### 8. [**Llama PDF to Excel**](https://github.com/arnesanches/llama-pdf-to-excel)  
 Script em Python criado com o Llama Parse que converte tabelas de PDF para o formato Excel. Este projeto é útil para automatizar a extração e manipulação de dados tabulares de arquivos PDF, facilitando o trabalho no Excel.
 
-### 8. [**Flet IntraChat**](https://github.com/arnesanches/flet_intrachat)
-Desenvolvido com o poderoso framework Flet, este projeto oferece uma solução eficiente para comunicação interna em empresas, operando sem internet e facilitando a integração entre equipes.
 
 ## Sobre os Projetos  
 
