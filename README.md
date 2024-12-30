@@ -9,10 +9,10 @@ This space showcases practical projects in automation, artificial intelligence, 
 ## Projects
 
 ### 1. [**Scikit-learn AI**](https://github.com/arnesanches/scikit-learn-ai)
-This is an artificial intelligence project that uses Scikit-learn to implement machine learning algorithms and predict credit scores based on customer data. Additionally, the project applies the trained models to make predictions on new data, enabling more accurate analyses and decision-making.
+This artificial intelligence project uses the Scikit-learn library in Python to develop machine learning models that predict credit scores based on customer data. The trained models are then applied to generate predictions on new data, assisting in credit analysis and decision-making.
 
 ### 2. [**PyAuto Record**](https://github.com/arnesanches/pyauto-record)  
-A Python script utilizing PyAutoGUI to automate the product registration process on a website. This tool significantly reduces manual work and enhances efficiency in managing online inventories.
+A Python script that uses the PyAutoGUI library to automate the process of registering products on a website. The tool significantly speeds up the process, saving time and reducing the likelihood of human errors.
 
 ### 3. [**Selenium Analysis Mailer**](https://github.com/arnesanches/selenium-analysis-mailer)
 Using Selenium, Pandas, and PyAutoGUI, this script analyzes data from an Excel file, generates sales insights, and automates the process of sending this information via email. Additionally, the script logs out and closes the browser at the end of the process.
@@ -30,23 +30,26 @@ Developed with the powerful Flet framework, this project optimizes internal comm
 Built with BeautifulSoup, this web scraping tool extracts data from websites in a structured and high-performance manner, enabling users to collect and analyze large volumes of online information.
 
 ### 8. [**Llama PDF to Excel**](https://github.com/arnesanches/llama-pdf-to-excel)    
-A Python script created with Llama Parse that converts PDF tables into Excel format. This project is useful for automating the extraction and manipulation of tabular data from PDF files, simplifying work in Excel.
-
-
+This project uses Llama Parse, an AI-powered document analysis tool, to extract tables from PDF files and convert them into Excel (.xlsx) format with proper formatting. 
 
 ## About the Projects  
 
 This repository showcases a collection of projects developed during my learning journey with Hashtag Treinamentos, highlighting my skills in analyzing, improving, and adapting code for different scenarios. Hashtag Treinamentos authorizes the use and adaptation of its materials for personal portfolios.  
 
-### My contributions include:  
-- **Detailed analysis of the original code**, identifying opportunities for improvement in performance, readability, and maintainability.  
-- **Implementation of optimizations**, such as:  
-  - Refactoring functions to reduce time complexity.  
-  - Optimizing database queries to enhance performance.  
-  - Adapting code to ensure functionality across various computers, regardless of screen size or resolution.  
-- **Customization of solutions**, by implementing new features and integrating with other tools, tailoring projects to specific goals and diverse scenarios.  
-- **Strategic naming of projects**, emphasizing the tools used and the main objective of each one.  
+### My contributions include:
 
+*   **Code analysis and improvement:**
+    *   Detailed analysis of the original code, identifying opportunities for improvement in *performance*, *readability*, and *maintainability*.
+    *   Implementation of optimizations, such as:
+        *   Refactoring functions to reduce *time complexity*.
+        *   Optimizing database queries for *performance gains*.
+        *   Adapting code to ensure functionality on different computers, regardless of monitor size or resolution.
+*   **Customization and feature expansion:**
+    *   Customization of solutions, with the implementation of new features and integration with other tools, adapting projects to specific objectives and diverse scenarios.
+*   **Documentation and organization:**
+    *   Strategic definition of project names, highlighting the *tools used* and the *main objectives* of each one.
+    *   **Creation of comprehensive and self-explanatory READMEs for all projects, including information on installation, configuration, usage, code examples, and other relevant information for users, ensuring easy understanding and utilization.**
+      
 ### This repository demonstrates my ability to:  
 - **Understand and enhance existing code**, implementing effective improvements.  
 - **Create practical and adaptable solutions**, meeting specific needs and adjusting to different contexts.  
@@ -76,10 +79,10 @@ Este espaço reúne projetos práticos em automação, inteligência artificial,
 ## Projetos
 
 ### 1. [**Scikit-learn AI**](https://github.com/arnesanches/scikit-learn-ai)
-Este é um projeto de inteligência artificial que utiliza o Scikit-learn para implementar algoritmos de aprendizado de máquina e prever scores de crédito com base em dados de clientes. Além disso, o projeto aplica os modelos treinados para realizar previsões em novos dados, possibilitando análises e tomadas de decisão mais assertivas.
+Este projeto de inteligência artificial utiliza a biblioteca Scikit-learn em Python para desenvolver modelos de aprendizado de máquina que preveem scores de crédito com base em dados de clientes. Os modelos treinados são aplicados para gerar previsões em novos dados, auxiliando na análise de crédito e na tomada de decisões.
 
 ### 2. [**PyAuto Record**](https://github.com/arnesanches/pyauto-record)  
-Um script em Python que usa o PyAutoGUI para automatizar o processo de cadastro de produtos em um site. Esta ferramenta reduz significativamente o trabalho manual e aumenta a eficiência na gestão de inventários online.
+Um script Python que utiliza a biblioteca PyAutoGUI para automatizar o processo de cadastro de produtos em um website. A ferramenta acelera significativamente o processo, economizando tempo e reduzindo a possibilidade de erros humanos.
 
 ### 3. [**Selenium Analysis Mailer**](https://github.com/arnesanches/selenium-analysis-mailer)
 Com o uso de Selenium, Pandas e PyAutoGUI, este script analisa dados de um arquivo Excel, gera insights sobre vendas e automatiza o envio dessas informações por e-mail. Além disso, o código realiza logout e encerra o navegador ao final do processo.
@@ -97,22 +100,26 @@ Desenvolvido com o poderoso framework Flet, este projeto otimiza a comunicação
 Construída com o BeautifulSoup, esta ferramenta de web scraping realiza a extração de dados de websites de forma estruturada e com alta performance, permitindo que os usuários coletem e analisem grandes volumes de informações online.
 
 ### 8. [**Llama PDF to Excel**](https://github.com/arnesanches/llama-pdf-to-excel)  
-Script em Python criado com o Llama Parse que converte tabelas de PDF para o formato Excel. Este projeto é útil para automatizar a extração e manipulação de dados tabulares de arquivos PDF, facilitando o trabalho no Excel.
-
+Este projeto utiliza o Llama Parse, uma ferramenta de análise de documentos com IA, para extrair tabelas de arquivos PDF e convertê-las para o formato Excel (.xlsx) com a formatação adequada. 
 
 ## Sobre os Projetos  
 
 Este repositório apresenta uma coleção de projetos desenvolvidos durante meu aprendizado com a Hashtag Treinamentos, destacando minhas habilidades em análise, aprimoramento e adaptação de códigos para diferentes cenários. A Hashtag Treinamentos autoriza o uso e a adaptação de seus materiais para compor portfólios pessoais.  
 
-### Minhas contribuições incluem:  
-- **Análise detalhada do código original**, identificando oportunidades de melhoria em performance, legibilidade e manutenibilidade.  
-- **Implementação de otimizações**, como:  
-  - Refatoração de funções para reduzir a complexidade temporal.  
-  - Otimização de consultas ao banco de dados para ganho de desempenho.  
-  - Adaptação de códigos para assegurar a funcionalidade em diferentes computadores, independentemente do tamanho ou resolução do monitor.  
-- **Personalização de soluções**, com a implementação de novas funcionalidades e integração com outras ferramentas, adaptando os projetos a objetivos específicos e cenários diversos.  
-- **Definição estratégica dos nomes dos projetos**, ressaltando as ferramentas utilizadas e os objetivos principais de cada um.  
+### Minhas contribuições incluem:
 
+*   **Análise e melhoria do código:**
+    *   Análise detalhada do código original, identificando oportunidades de melhoria em *performance*, *legibilidade* e *manutenibilidade*.
+    *   Implementação de otimizações, como:
+        *   Refatoração de funções para reduzir a *complexidade temporal*.
+        *   Otimização de consultas ao banco de dados para *ganho de desempenho*.
+        *   Adaptação de códigos para assegurar a funcionalidade em diferentes computadores, independentemente do tamanho ou resolução do monitor.
+*   **Personalização e expansão de funcionalidades:**
+    *   Personalização de soluções, com a implementação de novas funcionalidades e integração com outras ferramentas, adaptando os projetos a objetivos específicos e cenários diversos.
+*   **Documentação e organização:**
+    *   Definição estratégica dos nomes dos projetos, ressaltando as *ferramentas utilizadas* e os *objetivos principais* de cada um.
+    *   **Criação de READMEs abrangentes e autoexplicativos para todos os projetos, incluindo informações sobre instalação, configuração, uso, exemplos de código e outras informações relevantes para os usuários, garantindo a fácil compreensão e utilização dos mesmos.**
+      
 ### Este repositório evidencia minhas habilidades em:  
 - **Compreender e aprimorar códigos existentes**, implementando melhorias eficazes.  
 - **Criar soluções práticas e adaptáveis**, que atendam a necessidades específicas e se ajustem a diferentes contextos.  
