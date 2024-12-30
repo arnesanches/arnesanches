@@ -29,7 +29,7 @@ Built with BeautifulSoup, this web scraping tool extracts data from websites in 
 ### 7. [**Llama PDF to Excel**](https://github.com/arnesanches/llama-pdf-to-excel)    
 A Python script created with Llama Parse that converts PDF tables into Excel format. This project is useful for automating the extraction and manipulation of tabular data from PDF files, simplifying work in Excel.
 
-### 8. [**Flet IntraChat**](https://github.com/arnesanches/flet-intrachat)
+### 8. [**Flet IntraChat**](https://github.com/arnesanches/flet_intrachat)
 Developed with the powerful Flet framework, this project offers an efficient solution for internal communication in companies, operating without internet and facilitating team integration.
 
 ## About the Projects  
@@ -94,7 +94,7 @@ Construída com o BeautifulSoup, esta ferramenta de web scraping realiza a extra
 ### 7. [**Llama PDF to Excel**](https://github.com/arnesanches/llama-pdf-to-excel)  
 Script em Python criado com o Llama Parse que converte tabelas de PDF para o formato Excel. Este projeto é útil para automatizar a extração e manipulação de dados tabulares de arquivos PDF, facilitando o trabalho no Excel.
 
-### 8. [**Flet IntraChat**](https://github.com/arnesanches/flet-intrachat)
+### 8. [**Flet IntraChat**](https://github.com/arnesanches/flet_intrachat)
 Desenvolvido com o poderoso framework Flet, este projeto oferece uma solução eficiente para comunicação interna em empresas, operando sem internet e facilitando a integração entre equipes.
 
 ## Sobre os Projetos  
