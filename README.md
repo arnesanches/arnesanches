@@ -41,9 +41,9 @@ This repository showcases a collection of projects developed during my learning 
 *   **Code analysis and improvement:**
     *   Detailed analysis of the original code, identifying opportunities for improvement in *performance*, *readability*, and *maintainability*.
     *   Implementation of optimizations, such as:
-        *   Refactoring functions to reduce *time complexity*.
-        *   Optimizing database queries for *performance gains*.
-        *   Adapting code to ensure functionality on different computers, regardless of monitor size or resolution.
+        1   Refactoring functions to reduce *time complexity*.
+        2   Optimizing database queries for *performance gains*.
+        3   Adapting code to ensure functionality on different computers, regardless of monitor size or resolution.
 *   **Customization and feature expansion:**
     *   Customization of solutions, with the implementation of new features and integration with other tools, adapting projects to specific objectives and diverse scenarios.
 *   **Documentation and organization:**
@@ -111,9 +111,9 @@ Este repositório apresenta uma coleção de projetos desenvolvidos durante meu 
 *   **Análise e melhoria do código:**
     *   Análise detalhada do código original, identificando oportunidades de melhoria em *performance*, *legibilidade* e *manutenibilidade*.
     *   Implementação de otimizações, como:
-        *   Refatoração de funções para reduzir a *complexidade temporal*.
-        *   Otimização de consultas ao banco de dados para *ganho de desempenho*.
-        *   Adaptação de códigos para assegurar a funcionalidade em diferentes computadores, independentemente do tamanho ou resolução do monitor.
+        1   Refatoração de funções para reduzir a *complexidade temporal*.
+        2   Otimização de consultas ao banco de dados para *ganho de desempenho*.
+        3   Adaptação de códigos para assegurar a funcionalidade em diferentes computadores, independentemente do tamanho ou resolução do monitor.
 *   **Personalização e expansão de funcionalidades:**
     *   Personalização de soluções, com a implementação de novas funcionalidades e integração com outras ferramentas, adaptando os projetos a objetivos específicos e cenários diversos.
 *   **Documentação e organização:**
