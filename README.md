@@ -4,7 +4,7 @@
 
 ### Welcome to my portfolio!
 
-This space showcases practical projects in automation, artificial intelligence, data analysis, and web scraping, including an interactive and dynamic Power BI dashboard that transforms raw data into clear and actionable insights.
+This space showcases practical projects in automation, artificial intelligence, data analysis, and web scraping, including an interactive and dynamic Power BI dashboard that transforms raw data into clear and actionable insights. See the projects in operation through the demonstration GIFs available in each of them.
 
 ## Projects
 
@@ -18,7 +18,7 @@ A Python script that uses the PyAutoGUI library to automate the process of regis
 Using Selenium, Pandas, and PyAutoGUI, this script analyzes data from an Excel file, generates sales insights, and automates the process of sending this information via email. Additionally, the script logs out and closes the browser at the end of the process.
 
 ### 4. [**Power BI Dashboard**](https://github.com/arnesanches/powerbi_dashboard)
-This project, developed in Power BI, features a highly interactive and visually appealing financial dashboard that displays the results of financial calculations based on data extracted from an Excel file. The accuracy of these results is validated using Python code. A demo video, located in the same directory as the project, highlights the interactivity and dynamism of the dashboard.
+This project, developed in Power BI, features a highly interactive and visually appealing financial dashboard that displays the results of financial calculations based on data extracted from an Excel file. The accuracy of these results is validated using Python code. 
 
 ### 5. [**Plotly Insights**](https://github.com/arnesanches/plotly-insights)   
 This project employs Plotly to transform datasets into interactive and intuitive charts, facilitating the interpretation and extraction of valuable insights for decision-making.
@@ -46,9 +46,12 @@ This repository showcases a collection of projects developed during my learning 
         *   Adapting code to ensure functionality on different computers, regardless of monitor size or resolution.
 *   **Customization and feature expansion:**
     *   Customization of solutions, with the implementation of new features and integration with other tools, adapting projects to specific objectives and diverse scenarios.
-*   **Documentation and organization:**
-    *   Strategic definition of project names, highlighting the *tools used* and the *main objectives* of each one.
-    *   **Creation of comprehensive and self-explanatory READMEs for all projects, including information on installation, configuration, usage, code examples, and other relevant information for users, ensuring easy understanding and utilization.**
+*   **Documentation and Project Organization:**
+    *   **Strategic Naming**: Clear identification of projects, highlighting the **tools used** and the **main objectives**.
+    *   **Detailed READMEs**: Comprehensive and self-explanatory documentation, including:
+        *   **GIFs** demonstrating the project in action.
+        *   Instructions for installation, setup, and usage.
+        *   Code examples and other relevant information to ensure easy understanding and use of the projects.
       
 ### This repository demonstrates my ability to:  
 - **Understand and enhance existing code**, implementing effective improvements.  
@@ -74,7 +77,7 @@ Contact me:
 
 ### Bem-vindo(a) ao meu portfólio!
 
-Este espaço reúne projetos práticos em automação, inteligência artificial, análise de dados e web scraping, incluindo um dashboard interativo e dinâmico em Power BI que transforma dados brutos em informações claras e úteis.
+Este espaço reúne projetos práticos em automação, inteligência artificial, análise de dados e web scraping, incluindo um dashboard interativo e dinâmico em Power BI que transforma dados brutos em informações claras e úteis. Veja os projetos em funcionamento através dos GIFs demonstrativos disponíveis em cada um deles.
 
 ## Projetos
 
@@ -88,7 +91,7 @@ Um script Python que utiliza a biblioteca PyAutoGUI para automatizar o processo 
 Com o uso de Selenium, Pandas e PyAutoGUI, este script analisa dados de um arquivo Excel, gera insights sobre vendas e automatiza o envio dessas informações por e-mail. Além disso, o código realiza logout e encerra o navegador ao final do processo.
 
 ### 4. [**Power BI Dashboard**](https://github.com/arnesanches/powerbi_dashboard)
-Este projeto, desenvolvido no Power BI, apresenta um dashboard financeiro altamente interativo e visualmente atraente que exibe resultados de cálculos financeiros baseados em dados extraídos de um arquivo Excel. A precisão desses resultados é validada utilizando código Python. Um vídeo demonstrativo, localizado no mesmo diretório do projeto, destaca a interatividade e o dinamismo do dashboard.
+Este projeto, desenvolvido no Power BI, apresenta um dashboard financeiro altamente interativo e visualmente atraente que exibe resultados de cálculos financeiros baseados em dados extraídos de um arquivo Excel. A precisão desses resultados é validada utilizando código Python. 
 
 ### 5. [**Plotly Insights**](https://github.com/arnesanches/plotly-insights)  
 Este projeto emprega o Plotly para transformar conjuntos de dados em gráficos interativos e intuitivos, facilitando a interpretação e a extração de insights valiosos para a tomada de decisões.
@@ -116,9 +119,12 @@ Este repositório apresenta uma coleção de projetos desenvolvidos durante meu 
         *   Adaptação de códigos para assegurar a funcionalidade em diferentes computadores, independentemente do tamanho ou resolução do monitor.
 *   **Personalização e expansão de funcionalidades:**
     *   Personalização de soluções, com a implementação de novas funcionalidades e integração com outras ferramentas, adaptando os projetos a objetivos específicos e cenários diversos.
-*   **Documentação e organização:**
-    *   Definição estratégica dos nomes dos projetos, ressaltando as *ferramentas utilizadas* e os *objetivos principais* de cada um.
-    *   **Criação de READMEs abrangentes e autoexplicativos para todos os projetos, incluindo informações sobre instalação, configuração, uso, exemplos de código e outras informações relevantes para os usuários, garantindo a fácil compreensão e utilização dos mesmos.**
+*   **Documentação e organização dos projetos:**
+    *   **Nomes Estratégicos**: Identificação clara dos projetos, destacando as **ferramentas utilizadas** e os **objetivos principais**.
+    *   **READMEs Detalhados**: Documentação completa e autoexplicativa, incluindo:
+        *   **GIFs** demonstrando o projeto em ação.
+        *   Instruções de instalação, configuração e uso.
+        *   Exemplos de código e demais informações relevantes para facilitar a compreensão e a utilização dos projetos. 
       
 ### Este repositório evidencia minhas habilidades em:  
 - **Compreender e aprimorar códigos existentes**, implementando melhorias eficazes.  
