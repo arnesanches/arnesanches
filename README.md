@@ -4,7 +4,9 @@
 
 ### Welcome to my portfolio!
 
-This space showcases practical projects in automation, artificial intelligence, data analysis, and web scraping, including an interactive and dynamic Power BI dashboard that transforms raw data into clear and actionable insights. See the projects in operation through the demonstration GIFs available in each of them.
+This space showcases practical projects in automation, artificial intelligence, data analysis, and web scraping, including an interactive and dynamic Power BI dashboard that transforms raw data into clear and actionable insights. 
+
+See the projects in operation through the demonstration GIFs available in each of them.
 
 ## Projects
 
@@ -77,7 +79,9 @@ Contact me:
 
 ### Bem-vindo(a) ao meu portfólio!
 
-Este espaço reúne projetos práticos em automação, inteligência artificial, análise de dados e web scraping, incluindo um dashboard interativo e dinâmico em Power BI que transforma dados brutos em informações claras e úteis. Veja os projetos em funcionamento através dos GIFs demonstrativos disponíveis em cada um deles.
+Este espaço reúne projetos práticos em automação, inteligência artificial, análise de dados e web scraping, incluindo um dashboard interativo e dinâmico em Power BI que transforma dados brutos em informações claras e úteis. 
+
+Veja os projetos em funcionamento através dos GIFs demonstrativos disponíveis em cada um deles.
 
 ## Projetos
 
