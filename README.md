@@ -7,7 +7,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-1ABC9C?style=for-the-badge&logo=pandas&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-27AE60?style=for-the-badge&logo=selenium&logoColor=white)
 ![Flet](https://img.shields.io/badge/Flet-2980B9?style=for-the-badge&logo=python&logoColor=white)
-![LlamaParse](https://img.shields.io/badge/LlamaParse-D35400?style=for-the-badge&logo=python&logoColor=white)
 
 #### A dynamic dashboard I built in Power BI / Um dashboard dinâmico que construí no Power BI
 
