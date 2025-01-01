@@ -1,10 +1,23 @@
+# Welcome to my portfolio! / Bem-vindo(a) ao meu portfólio!
+
+#### Some tools I use / Algumas ferramentas que utilizo
+![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-FF5733?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-8E44AD?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-1ABC9C?style=for-the-badge&logo=pandas&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-27AE60?style=for-the-badge&logo=selenium&logoColor=white)
+![Flet](https://img.shields.io/badge/Flet-2980B9?style=for-the-badge&logo=python&logoColor=white)
+![LlamaParse](https://img.shields.io/badge/LlamaParse-D35400?style=for-the-badge&logo=python&logoColor=white)
+
+#### A dynamic dashboard I built in Power BI / Um dashboard dinâmico que construí no Power BI
+
+<img src="https://github.com/arnesanches/powerbi-advanced-dashboard/blob/main/Anima%C3%A7%C3%A3o.gif?raw=true" alt="Dashboard Power BI" width="600">
+
 #### English 
 
-# Projects Portfolio
+## What you'll find here
 
-### Welcome to my portfolio!
-
-This space features practical projects in **artificial intelligence**, **automation**, **data analysis**, and **web scraping**, including a **dynamic and interactive dashboard in Power BI**. To see how these projects work in practice, check out the **demonstrative GIFs** available in the directories.
+This space features practical projects in **artificial intelligence**, **automation**, **data analysis**, and **web scraping**, including the Power BI dashboard presented in the GIF above. To see how the projects work in practice, check out the **demo GIFs** available in the directories.
 
 ## Projects
 
@@ -34,7 +47,7 @@ This project uses Llama Parse, an AI-powered document analysis tool, to extract 
 
 ## About the Projects  
 
-This repository showcases a collection of projects developed during my learning journey with Hashtag Treinamentos, highlighting my skills in analyzing, improving, and adapting code for different scenarios. Hashtag Treinamentos authorizes the use and adaptation of its materials for personal portfolios.  
+This repository showcases a collection of projects developed during my learning journey with Hashtag Treinamentos, highlighting my skills in analyzing, improving, and adapting code for different scenarios. Hashtag Treinamentos authorizes the use and adaptation of its materials for personal portfolios. The data used is fictitious, ensuring complete security and privacy.    
 
 ### My contributions include:
 
@@ -48,36 +61,27 @@ This repository showcases a collection of projects developed during my learning 
     *   Customization of solutions, with the implementation of new features and integration with other tools, adapting projects to specific objectives and diverse scenarios.
 *   **Documentation and Project Organization:**
     *   **Strategic Naming**: Clear identification of projects, highlighting the **tools used** and the **main objectives**.
-    *   **Detailed READMEs**: Comprehensive and self-explanatory documentation, including:
+    *   **Detailed READMEs**: Each project has complete and self-explanatory documentation, available in **English** and **Portuguese**, including:
         *   **GIFs** demonstrating the project in action.
         *   Instructions for installation, setup, and usage.
         *   Code examples and other relevant information to ensure easy understanding and use of the projects.
       
-### This repository demonstrates my ability to:  
-- **Understand and enhance existing code**, implementing effective improvements.  
-- **Create practical and adaptable solutions**, meeting specific needs and adjusting to different contexts.  
-- **Solve challenges effectively**, applying logic, creativity, and technical knowledge.  
-- **Continuously learn**, incorporating new technologies and practices into practical projects, with a focus on constant improvement.  
+##
 
-The data used is fictitious, ensuring complete security and privacy.  
+Feel free to explore the projects and reach out if you have any questions or suggestions. I’m always working to improve my skills and contribute to meaningful projects. Thank you for visiting my portfolio!
 
-*****************************
-
-Feel free to explore the projects and reach out if you have any questions or suggestions. I’m always working to improve my skills and contribute to meaningful projects. 
-
-Contact me:  
 - [LinkedIn](https://www.linkedin.com/in/arnesanchesjunior/)  
 - [Email](mailto:arne.junior@faculdadegran.edu.br)
 
+##
 ---
+###
 
 #### Português
 
-# Portfólio de Projetos
+## O que você encontrará aqui
 
-### Bem-vindo(a) ao meu portfólio!
-
-Este espaço reúne projetos práticos de **inteligência artificial**, **automação**, **análise de dados** e **web scraping**, incluindo um **dashboard dinâmico e interativo em Power BI**. Para ver como esses projetos funcionam na prática, veja os **GIFs demonstrativos** disponíveis nos diretórios.
+Este espaço reúne projetos práticos de **inteligência artificial**, **automação**, **análise de dados** e **web scraping**, incluindo o dashboard em Power BI apresentado no GIF mais acima. Para ver como os projetos funcionam na prática, confira os **GIFs demonstrativos** disponíveis nos diretórios.
 
 ## Projetos
 
@@ -107,7 +111,7 @@ Este projeto utiliza o Llama Parse, uma ferramenta de análise de documentos com
 
 ## Sobre os Projetos  
 
-Este repositório apresenta uma coleção de projetos desenvolvidos durante meu aprendizado com a Hashtag Treinamentos, destacando minhas habilidades em análise, aprimoramento e adaptação de códigos para diferentes cenários. A Hashtag Treinamentos autoriza o uso e a adaptação de seus materiais para compor portfólios pessoais.  
+Este repositório apresenta uma coleção de projetos desenvolvidos durante meu aprendizado com a Hashtag Treinamentos, destacando minhas habilidades em análise, aprimoramento e adaptação de códigos para diferentes cenários. A Hashtag Treinamentos autoriza o uso e a adaptação de seus materiais para compor portfólios pessoais. Os dados utilizados são fictícios, garantindo total segurança e privacidade.   
 
 ### Minhas contribuições incluem:
 
@@ -121,26 +125,18 @@ Este repositório apresenta uma coleção de projetos desenvolvidos durante meu 
     *   Personalização de soluções, com a implementação de novas funcionalidades e integração com outras ferramentas, adaptando os projetos a objetivos específicos e cenários diversos.
 *   **Documentação e organização dos projetos:**
     *   **Nomes Estratégicos**: Identificação clara dos projetos, destacando as **ferramentas utilizadas** e os **objetivos principais**.
-    *   **READMEs Detalhados**: Documentação completa e autoexplicativa, incluindo:
+    *   **READMEs Detalhados**: Cada projeto possui documentação completa e autoexplicativa, disponível em **inglês** e **português**, incluindo:
         *   **GIFs** demonstrando o projeto em ação.
         *   Instruções de instalação, configuração e uso.
         *   Exemplos de código e demais informações relevantes para facilitar a compreensão e a utilização dos projetos. 
       
-### Este repositório evidencia minhas habilidades em:  
-- **Compreender e aprimorar códigos existentes**, implementando melhorias eficazes.  
-- **Criar soluções práticas e adaptáveis**, que atendam a necessidades específicas e se ajustem a diferentes contextos.  
-- **Resolver desafios com eficácia**, aplicando lógica, criatividade e conhecimento técnico.  
-- **Aprender continuamente**, incorporando novas tecnologias e práticas em projetos práticos, com foco no aperfeiçoamento constante.  
+##
 
-Os dados utilizados são fictícios, garantindo total segurança e privacidade.  
-
-*****************************
-
-Sinta-se à vontade para explorar os projetos e entrar em contato caso tenha dúvidas ou sugestões. Estou sempre trabalhando para melhorar minhas habilidades e contribuir para projetos significativos. 
-
-Entre em contato:  
+Sinta-se à vontade para explorar os projetos e entrar em contato caso tenha dúvidas ou sugestões. Estou sempre trabalhando para melhorar minhas habilidades e contribuir para projetos significativos. Obrigado por visitar meu portfólio!                 
+ 
 - [LinkedIn](https://www.linkedin.com/in/arnesanchesjunior/)  
 - [E-mail](mailto:arne.junior@faculdadegran.edu.br)
 
-- ---
+##
+---
 
