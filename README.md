@@ -16,7 +16,7 @@
 
 ## What you'll find here
 
-This space features practical projects in **artificial intelligence**, **automation**, **data analysis**, and **web scraping**, including the Power BI dashboard presented in the GIF above. To see how the projects work in practice, check out the **demo GIFs** available in the directories.
+This space features practical projects in **artificial intelligence**, **automation**, **data analysis**, and **web scraping**, including the intuitive Power BI dashboard displayed in the GIF above. To see how the projects work in practice, check out the **demo GIFs** available in the directories.
 
 ## Projects
 
@@ -33,7 +33,7 @@ Using Selenium, Pandas, and PyAutoGUI, this script analyzes data from an Excel f
 This project, developed in Power BI, features a highly interactive and visually appealing financial dashboard that displays the results of financial calculations based on data extracted from an Excel file. The accuracy of these results is validated using Python code. 
 
 ### 5. [**Plotly Insights**](https://github.com/arnesanches/plotly-insights)   
-This project employs Plotly to transform datasets into interactive and intuitive charts, facilitating the interpretation and extraction of valuable insights for decision-making.
+This project leverages Plotly to offer multiple interactive column charts, each investigating the causes of customer churn. The ability to select specific parts for detailed analysis, combined with interactive tooltips, makes the interpretation and extraction of valuable insights for strategic decision-making more efficient and accessible.
 
 ### 6. [**Flet IntraChat**](https://github.com/arnesanches/flet_intrachat)
 Developed with the powerful Flet framework, this project optimizes internal communication within companies by offering a secure, effective, and fully integrated solution. By eliminating the need for internet, emails, external applications, or registrations, it simplifies team collaboration and ensures maximum protection against corporate information leaks.
@@ -80,7 +80,7 @@ Feel free to explore the projects and reach out if you have any questions or sug
 
 ## O que você encontrará aqui
 
-Este espaço reúne projetos práticos de **inteligência artificial**, **automação**, **análise de dados** e **web scraping**, incluindo o dashboard em Power BI apresentado no GIF mais acima. Para ver como os projetos funcionam na prática, confira os **GIFs demonstrativos** disponíveis nos diretórios.
+Este espaço reúne projetos práticos de **inteligência artificial**, **automação**, **análise de dados** e **web scraping**, incluindo o intuitivo dashboard em Power BI apresentado no GIF mais acima. Para ver como os projetos funcionam na prática, confira os **GIFs demonstrativos** disponíveis nos diretórios.
 
 ## Projetos
 
@@ -97,7 +97,7 @@ Com o uso de Selenium, Pandas e PyAutoGUI, este script analisa dados de um arqui
 Este projeto, desenvolvido no Power BI, apresenta um dashboard financeiro altamente interativo e visualmente atraente que exibe resultados de cálculos financeiros baseados em dados extraídos de um arquivo Excel. A precisão desses resultados é validada utilizando código Python. 
 
 ### 5. [**Plotly Insights**](https://github.com/arnesanches/plotly-insights)  
-Este projeto emprega o Plotly para transformar conjuntos de dados em gráficos interativos e intuitivos, facilitando a interpretação e a extração de insights valiosos para a tomada de decisões.
+Este projeto emprega o Plotly para oferecer múltiplos gráficos de colunas interativos, cada um investigando as causas do cancelamento de clientes. A possibilidade de selecionar partes específicas para análise detalhada e os tooltips interativos tornam mais eficientes e acessíveis a interpretação e a extração de insights valiosos para a tomada de decisões estratégicas.           
 
 ### 6. [**Flet IntraChat**](https://github.com/arnesanches/flet_intrachat)
 Desenvolvido com o poderoso framework Flet, este projeto otimiza a comunicação interna das empresas, oferecendo uma solução segura, eficaz e totalmente integrada. Ao eliminar a necessidade de internet, e-mails, aplicativos externos ou cadastros, ele simplifica a colaboração entre equipes e garante máxima proteção contra vazamentos de informações corporativas.
