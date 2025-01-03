@@ -29,20 +29,20 @@ A Python script that uses the PyAutoGUI library to automate the process of regis
 ### 3. [**Selenium Analysis Mailer**](https://github.com/arnesanches/selenium-analysis-mailer)
 Using Selenium, Pandas, and PyAutoGUI, this script analyzes data from an Excel file, generates sales insights, and automates the process of sending this information via email. Additionally, the script logs out and closes the browser at the end of the process.
 
-### 4. [**Power BI Advanced Dashboard**](https://github.com/arnesanches/powerbi_dashboard)
-This project, developed in Power BI, features a highly interactive and visually appealing financial dashboard that displays the results of financial calculations based on data extracted from an Excel file. The accuracy of these results is validated using Python code. 
-
-### 5. [**Plotly Insights**](https://github.com/arnesanches/plotly-insights)   
+### 4. [**Plotly Insights**](https://github.com/arnesanches/plotly-insights)   
 This project leverages Plotly to offer multiple interactive column charts, each investigating the causes of customer churn. The ability to select specific parts for detailed analysis, combined with interactive tooltips, makes the interpretation and extraction of valuable insights for strategic decision-making more efficient and accessible.
 
-### 6. [**Flet IntraChat**](https://github.com/arnesanches/flet_intrachat)
+### 5. [**Flet IntraChat**](https://github.com/arnesanches/flet_intrachat)
 Developed with the powerful Flet framework, this project optimizes internal communication within companies by offering a secure, effective, and fully integrated solution. By eliminating the need for internet, emails, external applications, or registrations, it simplifies team collaboration and ensures maximum protection against corporate information leaks.
 
-### 7. [**Beautiful News Scraper**](https://github.com/arnesanches/beautiful-news-scraper)  
+### 6. [**Beautiful News Scraper**](https://github.com/arnesanches/beautiful-news-scraper)  
 Built with BeautifulSoup and Matplotlib, this web scraping tool collects data from Hacker News, generates CSV reports, and creates graphs of the top 10 most popular news stories with their respective votes. Ideal for trend analysis and automated monitoring of news in the technology field.
 
-### 8. [**Llama PDF to Excel**](https://github.com/arnesanches/llama-pdf-to-excel)    
+### 7. [**Llama PDF to Excel**](https://github.com/arnesanches/llama-pdf-to-excel)    
 This project uses Llama Parse, an AI-powered document analysis tool, to extract tables from PDF files and convert them into Excel (.xlsx) format with proper formatting. 
+
+### 8. [**Power BI Advanced Dashboard**](https://github.com/arnesanches/powerbi_dashboard)
+This project, developed in Power BI, features a highly interactive and visually appealing financial dashboard that displays the results of financial calculations based on data extracted from an Excel file. The accuracy of these results is validated using Python code. 
 
 ## About the Projects  
 
@@ -93,20 +93,20 @@ Um script Python que utiliza a biblioteca PyAutoGUI para automatizar o processo 
 ### 3. [**Selenium Analysis Mailer**](https://github.com/arnesanches/selenium-analysis-mailer)
 Com o uso de Selenium, Pandas e PyAutoGUI, este script analisa dados de um arquivo Excel, gera insights sobre vendas e automatiza o envio dessas informações por e-mail. Além disso, o código realiza logout e encerra o navegador ao final do processo.
 
-### 4. [**Power BI Advanced Dashboard**](https://github.com/arnesanches/powerbi_dashboard)
-Este projeto, desenvolvido no Power BI, apresenta um dashboard financeiro altamente interativo e visualmente atraente que exibe resultados de cálculos financeiros baseados em dados extraídos de um arquivo Excel. A precisão desses resultados é validada utilizando código Python. 
-
-### 5. [**Plotly Insights**](https://github.com/arnesanches/plotly-insights)  
+### 4. [**Plotly Insights**](https://github.com/arnesanches/plotly-insights)  
 Este projeto emprega o Plotly para oferecer múltiplos gráficos de colunas interativos, cada um investigando as causas do cancelamento de clientes. A possibilidade de selecionar partes específicas para análise detalhada e os tooltips interativos tornam mais eficientes e acessíveis a interpretação e a extração de insights valiosos para a tomada de decisões estratégicas.           
 
-### 6. [**Flet IntraChat**](https://github.com/arnesanches/flet_intrachat)
+### 5. [**Flet IntraChat**](https://github.com/arnesanches/flet_intrachat)
 Desenvolvido com o poderoso framework Flet, este projeto otimiza a comunicação interna das empresas, oferecendo uma solução segura, eficaz e totalmente integrada. Ao eliminar a necessidade de internet, e-mails, aplicativos externos ou cadastros, ele simplifica a colaboração entre equipes e garante máxima proteção contra vazamentos de informações corporativas.
 
-### 7. [**Beautiful News Scraper**](https://github.com/arnesanches/beautiful-news-scraper)  
+### 6. [**Beautiful News Scraper**](https://github.com/arnesanches/beautiful-news-scraper)  
 Construída com BeautifulSoup e Matplotlib, esta ferramenta de web scraping coleta dados do Hacker News, gera relatórios em formato CSV e cria gráficos das 10 notícias mais populares com suas respectivas votações. Ideal para análise de tendências e monitoramento automatizado de notícias na área de tecnologia.
 
-### 8. [**Llama PDF to Excel**](https://github.com/arnesanches/llama-pdf-to-excel)  
-Este projeto utiliza o Llama Parse, uma ferramenta de análise de documentos com IA, para extrair tabelas de arquivos PDF e convertê-las para o formato Excel (.xlsx) com a formatação adequada. 
+### 7. [**Llama PDF to Excel**](https://github.com/arnesanches/llama-pdf-to-excel)  
+Este projeto utiliza o Llama Parse, uma ferramenta de análise de documentos com IA, para extrair tabelas de arquivos PDF e convertê-las para o formato Excel (.xlsx) com a formatação adequada.
+
+### 8. [**Power BI Advanced Dashboard**](https://github.com/arnesanches/powerbi_dashboard)
+Este projeto, desenvolvido no Power BI, apresenta um dashboard financeiro altamente interativo e visualmente atraente que exibe resultados de cálculos financeiros baseados em dados extraídos de um arquivo Excel. A precisão desses resultados é validada utilizando código Python. 
 
 ## Sobre os Projetos  
 
