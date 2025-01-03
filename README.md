@@ -20,7 +20,7 @@ This space features practical projects in **artificial intelligence**, **automat
 
 ## Projects
 
-### 1. [**Scikit-learn AI**](https://github.com/arnesanches/scikit-learn-ai)
+### 1. [**Scikit AI Predictions**](https://github.com/arnesanches/scikit-ai-predictions)
 This artificial intelligence project uses the Scikit-learn library in Python to develop machine learning models that predict credit scores based on customer data. The trained models are then applied to generate predictions on new data, assisting in credit analysis and decision-making.
 
 ### 2. [**PyAuto Record**](https://github.com/arnesanches/pyauto-record)  
@@ -39,7 +39,7 @@ Developed with the powerful Flet framework, this project optimizes internal comm
 Built with BeautifulSoup and Matplotlib, this web scraping tool collects data from Hacker News, generates CSV reports, and creates graphs of the top 10 most popular news stories with their respective votes. Ideal for trend analysis and automated monitoring of news in the technology field.
 
 ### 7. [**Llama PDF to Excel**](https://github.com/arnesanches/llama-pdf-to-excel)    
-This project uses Llama Parse, an AI-powered document analysis tool, to extract tables from PDF files and convert them into Excel (.xlsx) format with proper formatting. 
+This project uses Llama Parse, an AI-powered document analysis tool, to extract tabular data from PDF files and convert it into Excel (.xlsx) format while preserving the tabular layout.
 
 ### 8. [**Power BI Advanced Dashboard**](https://github.com/arnesanches/powerbi_dashboard)
 This project, developed in Power BI, features a highly interactive and visually appealing financial dashboard that displays the results of financial calculations based on data extracted from an Excel file. The accuracy of these results is validated using Python code. 
@@ -84,7 +84,7 @@ Este espaço reúne projetos práticos de **inteligência artificial**, **automa
 
 ## Projetos
 
-### 1. [**Scikit-learn AI**](https://github.com/arnesanches/scikit-learn-ai)
+### 1. [**Scikit AI Predictions**](https://github.com/arnesanches/scikit-ai-predictions)
 Este projeto de inteligência artificial utiliza a biblioteca Scikit-learn em Python para desenvolver modelos de aprendizado de máquina que preveem scores de crédito com base em dados de clientes. Os modelos treinados são aplicados para gerar previsões em novos dados, auxiliando na análise de crédito e na tomada de decisões.
 
 ### 2. [**PyAuto Record**](https://github.com/arnesanches/pyauto-record)  
@@ -103,7 +103,7 @@ Desenvolvido com o poderoso framework Flet, este projeto otimiza a comunicação
 Construída com BeautifulSoup e Matplotlib, esta ferramenta de web scraping coleta dados do Hacker News, gera relatórios em formato CSV e cria gráficos das 10 notícias mais populares com suas respectivas votações. Ideal para análise de tendências e monitoramento automatizado de notícias na área de tecnologia.
 
 ### 7. [**Llama PDF to Excel**](https://github.com/arnesanches/llama-pdf-to-excel)  
-Este projeto utiliza o Llama Parse, uma ferramenta de análise de documentos com IA, para extrair tabelas de arquivos PDF e convertê-las para o formato Excel (.xlsx) com a formatação adequada.
+Este projeto utiliza o Llama Parse, uma ferramenta de análise de documentos com IA, para extrair dados tabulares de arquivos PDF e convertê-los para o formato Excel (.xlsx), preservando o layout tabular.
 
 ### 8. [**Power BI Advanced Dashboard**](https://github.com/arnesanches/powerbi_dashboard)
 Este projeto, desenvolvido no Power BI, apresenta um dashboard financeiro altamente interativo e visualmente atraente que exibe resultados de cálculos financeiros baseados em dados extraídos de um arquivo Excel. A precisão desses resultados é validada utilizando código Python. 
