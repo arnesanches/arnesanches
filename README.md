@@ -7,10 +7,11 @@
 ![Pandas](https://img.shields.io/badge/Pandas-1ABC9C?style=for-the-badge&logo=pandas&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-27AE60?style=for-the-badge&logo=selenium&logoColor=white)
 ![Flet](https://img.shields.io/badge/Flet-2980B9?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-2C3E50?style=for-the-badge&logo=plotly&logoColor=white)
 
 #### A dynamic dashboard I built in Power BI / Um dashboard dinâmico que construí no Power BI
 
-<img src="https://github.com/arnesanches/powerbi-advanced-dashboard/blob/main/Anima%C3%A7%C3%A3o.gif?raw=true" alt="Dashboard Power BI" width="600">
+<img src="https://github.com/arnesanches/powerbi-advanced-dashboard/blob/main/Anima%C3%A7%C3%A3o.gif?raw=true" alt="Dashboard Power BI" width="750">
 
 #### English 
 
