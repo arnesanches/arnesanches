@@ -17,7 +17,7 @@
 
 ## What you'll find here
 
-This space features practical projects in **artificial intelligence**, **automation**, **data analysis**, and **web scraping**, including the intuitive Power BI dashboard displayed in the GIF above. To see how the projects work in practice, check out the **demo GIFs** available in the directories.
+This space showcases practical projects in **artificial intelligence (AI)**, **automation**, **data analysis**, **chatbots**, and **web scraping**, including interactive dashboards created in **Excel** and **Power BI**. To see the projects in action, check out the **demo GIFs** available in the directories.
 
 ## Projects
 
@@ -84,7 +84,7 @@ Feel free to explore the projects and reach out if you have any questions or sug
 
 ## O que você encontrará aqui
 
-Este espaço reúne projetos práticos de **inteligência artificial**, **automação**, **análise de dados** e **web scraping**, incluindo o intuitivo dashboard em Power BI apresentado no GIF mais acima. Para ver como os projetos funcionam na prática, confira os **GIFs demonstrativos** disponíveis nos diretórios.
+Este espaço reúne projetos práticos de **inteligência artificial (IA)**, **automação**, **análise de dados**, **chatbots** e **web scraping**, incluindo dashboards interativos criados em **Excel** e **Power BI**. Para visualizar os projetos em ação, confira os **GIFs demonstrativos** disponíveis nos diretórios.
 
 ## Projetos
 
