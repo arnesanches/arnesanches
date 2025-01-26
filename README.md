@@ -43,7 +43,7 @@ Built with BeautifulSoup and Matplotlib, this web scraping tool collects data fr
 This project uses Llama Parse, an AI-powered document analysis tool, to extract tabular data from PDF files and convert it into Excel (.xlsx) format while preserving the tabular layout.
 
 ### 8. [**Excel Dynamic Dashboard**](https://github.com/arnesanches/excel-dynamic-dashboard)
-Interactive Excel dashboard for sales analysis of four products over three years. It includes metrics like revenue, quantity sold, payment methods, and charts, with filters to select the desired year and product.
+Interactive Excel dashboard for sales analysis of four products over three years (2021-2023). The panel includes metrics such as total revenue, quantity sold, payment methods, and detailed charts. It features interactive buttons to select the desired year and product, allowing practical and intuitive filtering of information.
 
 ### 9. [**Power BI Advanced Dashboard**](https://github.com/arnesanches/powerbi_dashboard)
 This project, developed in Power BI, features a highly interactive and visually appealing financial dashboard that displays the results of financial calculations based on data extracted from an Excel file. The accuracy of these results is validated using Python code. 
@@ -109,7 +109,7 @@ Construída com BeautifulSoup e Matplotlib, esta ferramenta de web scraping cole
 Este projeto utiliza o Llama Parse, uma ferramenta de análise de documentos com IA, para extrair dados tabulares de arquivos PDF e convertê-los para o formato Excel (.xlsx), preservando o layout tabular.
 
 ### 8. [**Excel Dynamic Dashboard**](https://github.com/arnesanches/excel-dynamic-dashboard)
-Dashboard interativo em Excel para análise de vendas de quatro produtos ao longo de três anos. Inclui métricas como receita, quantidade vendida, formas de pagamento e gráficos, com filtros para selecionar o ano e o produto desejado.
+Dashboard interativo em Excel para análise de vendas de quatro produtos ao longo de três anos (2021-2023). O painel inclui métricas como receita total, quantidade vendida, formas de pagamento e gráficos detalhados. Possui botões interativos para selecionar o ano e o produto desejado, permitindo o filtro das informações de forma prática e intuitiva.         
 
 ### 9. [**Power BI Advanced Dashboard**](https://github.com/arnesanches/powerbi_dashboard)
 Este projeto, desenvolvido no Power BI, apresenta um dashboard financeiro altamente interativo e visualmente atraente que exibe resultados de cálculos financeiros baseados em dados extraídos de um arquivo Excel. A precisão desses resultados é validada utilizando código Python. 
