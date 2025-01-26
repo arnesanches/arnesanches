@@ -42,7 +42,10 @@ Built with BeautifulSoup and Matplotlib, this web scraping tool collects data fr
 ### 7. [**Llama PDF to Excel**](https://github.com/arnesanches/llama-pdf-to-excel)    
 This project uses Llama Parse, an AI-powered document analysis tool, to extract tabular data from PDF files and convert it into Excel (.xlsx) format while preserving the tabular layout.
 
-### 8. [**Power BI Advanced Dashboard**](https://github.com/arnesanches/powerbi_dashboard)
+### 8. [**Excel Dynamic Dashboard**](https://github.com/arnesanches/excel-dynamic-dashboard)
+Interactive Excel dashboard for sales analysis of four products over three years. It includes metrics like revenue, quantity sold, payment methods, and charts, with filters to select the desired year and product.
+
+### 9. [**Power BI Advanced Dashboard**](https://github.com/arnesanches/powerbi_dashboard)
 This project, developed in Power BI, features a highly interactive and visually appealing financial dashboard that displays the results of financial calculations based on data extracted from an Excel file. The accuracy of these results is validated using Python code. 
 
 ## About the Projects  
@@ -96,7 +99,6 @@ Com o uso de Selenium, Pandas e PyAutoGUI, este script analisa dados de um arqui
 
 ### 4. [**Plotly Insights**](https://github.com/arnesanches/plotly-insights)  
 Este projeto emprega o Plotly para oferecer múltiplos gráficos de colunas interativos, cada um investigando as causas do cancelamento de clientes. A possibilidade de selecionar partes específicas para análise detalhada e os tooltips interativos tornam mais eficientes e acessíveis a interpretação e a extração de insights valiosos para a tomada de decisões estratégicas.           
-
 ### 5. [**Flet IntraChat**](https://github.com/arnesanches/flet_intrachat)
 Desenvolvido com o poderoso framework Flet, este projeto otimiza a comunicação interna das empresas, oferecendo uma solução segura, eficaz e totalmente integrada. Ao eliminar a necessidade de internet, e-mails, aplicativos externos ou cadastros, ele simplifica a colaboração entre equipes e garante máxima proteção contra vazamentos de informações corporativas.
 
@@ -106,7 +108,10 @@ Construída com BeautifulSoup e Matplotlib, esta ferramenta de web scraping cole
 ### 7. [**Llama PDF to Excel**](https://github.com/arnesanches/llama-pdf-to-excel)  
 Este projeto utiliza o Llama Parse, uma ferramenta de análise de documentos com IA, para extrair dados tabulares de arquivos PDF e convertê-los para o formato Excel (.xlsx), preservando o layout tabular.
 
-### 8. [**Power BI Advanced Dashboard**](https://github.com/arnesanches/powerbi_dashboard)
+### 8. [**Excel Dynamic Dashboard**](https://github.com/arnesanches/excel-dynamic-dashboard)
+Dashboard interativo em Excel para análise de vendas de quatro produtos ao longo de três anos. Inclui métricas como receita, quantidade vendida, formas de pagamento e gráficos, com filtros para selecionar o ano e o produto desejado.
+
+### 9. [**Power BI Advanced Dashboard**](https://github.com/arnesanches/powerbi_dashboard)
 Este projeto, desenvolvido no Power BI, apresenta um dashboard financeiro altamente interativo e visualmente atraente que exibe resultados de cálculos financeiros baseados em dados extraídos de um arquivo Excel. A precisão desses resultados é validada utilizando código Python. 
 
 ## Sobre os Projetos  
